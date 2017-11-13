@@ -3,7 +3,7 @@ function add (a,b) {
 }
 
 function subtract (a,b) {
-  return parseInt(a)-parseInt(b)
+  return parseInt(b)-parseInt(a)
 }
 
 function multiply (a,b) {
